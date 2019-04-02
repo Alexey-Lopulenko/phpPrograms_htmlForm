@@ -51,7 +51,7 @@ switch ($res2) {
         echo ' свиньи.';
         break;
     default:
-        echo 'Zalupa';
+        echo 'Eror';
         break;
 }
 
